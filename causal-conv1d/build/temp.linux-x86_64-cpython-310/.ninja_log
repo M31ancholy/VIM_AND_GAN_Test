@@ -1,0 +1,5 @@
+# ninja log v5
+0	5163	1719744615092988465	/home/nextyear/Github_Projects/Vim-main/causal-conv1d/build/temp.linux-x86_64-cpython-310/csrc/causal_conv1d_update.o	20bbc344d9caa2e2
+0	15735	1719744625652985926	/home/nextyear/Github_Projects/Vim-main/causal-conv1d/build/temp.linux-x86_64-cpython-310/csrc/causal_conv1d_fwd.o	c1be0c5ee102ee62
+0	27239	1719744637162983465	/home/nextyear/Github_Projects/Vim-main/causal-conv1d/build/temp.linux-x86_64-cpython-310/csrc/causal_conv1d.o	26fc0d9637d44fd3
+0	46939	1719744656852979330	/home/nextyear/Github_Projects/Vim-main/causal-conv1d/build/temp.linux-x86_64-cpython-310/csrc/causal_conv1d_bwd.o	8ba2e19e7d9b8f26
