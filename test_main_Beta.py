@@ -321,7 +321,7 @@ def main():
     dataset = NiiDataset(nii_dir, transform=preprocess2)
     dataloader = DataLoader(dataset, batch_size=1, shuffle=True)
 
-    total_epoch = 300
+    total_epoch = 100
     for epoch in range(10,total_epoch):
         print("current epoch:{}".format(epoch))
         #对数据进行预处理
